@@ -17,5 +17,5 @@ Fix:    1. User can select same element
 Change: 1. Pointer A is moved directly without using site, additional site code will be removed in next version
 Remove: 1. Additional testing notes
 
-**Report bugs:**
+##Report bugs:
 Please raise an issue or email me *qiran_ren@outlook.com* and CC *roger.ren@connect.polyu.hk*
