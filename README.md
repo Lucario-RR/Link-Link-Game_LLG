@@ -6,11 +6,11 @@ Release notes:
 Add:    1. Return to menu after game over
         2. Press ESC at menu to kill program; Press ESC in game to return to menu
 Remove: 1. Remove unnecessary code
--------------------------
+
 ###Software version: 2.1.1
 Release notes:
 Fix:    1. Diagonal Selection Problem
--------------------------
+
 ###Software version: 2.1
 Release notes:
 Fix:    1. User can select same element
