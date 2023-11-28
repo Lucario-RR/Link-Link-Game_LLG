@@ -1,6 +1,6 @@
 # Link-Link-Game_LLG
 ## Notes:
-A menu will be released shortly
+This is a folder storing all version 2.x.x
 ## Updates:
 **Software version: 2.2**
 Release date: 2023/11/28\
