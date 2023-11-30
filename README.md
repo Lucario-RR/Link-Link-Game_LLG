@@ -38,5 +38,5 @@ There is no tracking for any version before 2.1.0 as I didn't write notes.\
 Version 1 is about building basic functions and provide limited view in command line.\
 Version 2.0.x has attemped to create GUI, with many bugs, and unplayable.
 
-## Report bugs:
+## Reporting bugs:
 Please raise an issue or email me *roger.ren@connect.polyu.hk*
