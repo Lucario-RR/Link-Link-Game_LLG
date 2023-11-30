@@ -1,23 +1,38 @@
 # Link-Link-Game_LLG
-## Notes:
-A menu will be released shortly
+## Introduction
+This project was originally for school assessment, it is published for tracking progress and a solution to link link game.\
+**I strongly not recommend you attempting finish *HARD* level!!!**
+## To-do:
+Post date | By | Progress | Details |
+:-- |:-- | :-- | :-- |
+30 Nov 2023 | Roger | Not started | Accept mouse click / touch as input |
+30 Nov 2023 | Albert | Not started | Resizeable gameboard windows |
+28 Nov 2023 | Roger | Not started | Publish LLG into web |
+28 Nov 2023 | Roger | Not started | Add sound effect? |
+28 Nov 2023 | Roger | In process | A user menu will be released shortly |
+
 ## Updates:
-**Software version: 2.2**
-Release date: 2023/11/28\
-Release notes:\
-Add:    1. Return to menu after game over\
-        2. Press ESC at menu to kill program; Press ESC in game to return to menu\
-Remove: 1. Remove unnecessary code
+**2.2.0**\
+28 Nov 2023
+Type | Details |
+:-- |:-- |
+Add | 1. Return to menu after game over<br>2. Press ESC at menu to kill program; Press ESC in game to return to menu |
+Remove | 1. Remove unnecessary code |
 
-**Software version: 2.1.1**
-Release notes:\
-Fix:    1. Diagonal Selection Problem
+**2.1.1**\
+28 Nov 2023
+Type | Details |
+:-- |:-- |
+Fix | 1. Elelemts can be selected diagnally|
 
-**Software version: 2.1**
-Release notes:\
-Fix:    1. User can select same element\
-Change: 1. Pointer A is moved directly without using site, additional site code will be removed in next version\
-Remove: 1. Additional testing notes
+**2.1.0**\
+27 Nov 2023
+Type | Details |
+:-- |:-- |
+Fix | 1. Same elements can be selected and cancelled |
+Change | 1. Pointer A is moved directly without using site, additional site code will be removed in next version |
+Remove | 1. Additional testing notes |
+
 
 ## Report bugs:
 Please raise an issue or email me *roger.ren@connect.polyu.hk*
