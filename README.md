@@ -16,7 +16,7 @@ Post date | By | Progress | Details |
 28 Nov 2023
 Type | Details |
 :-- |:-- |
-Add | 1. Return to menu after game over<br>2. Press ESC at menu to kill program; Press ESC in game to return to menu |
+Add | 1. Return to menu after game over<br> 2. Press ESC at menu to kill program; Press ESC in game to return to menu<br> 3. Game over and loading messages|
 Remove | 1. Remove unnecessary code |
 
 **2.1.1**\
@@ -33,6 +33,10 @@ Fix | 1. Same elements can be selected and cancelled |
 Change | 1. Pointer A is moved directly without using site, additional site code will be removed in next version |
 Remove | 1. Additional testing notes |
 
+**Before 2.1.0**\
+There is no tracking for any version before 2.1.0 as I didn't write notes.\
+Version 1 is about building basic functions and provide limited view in command line.\
+Version 2.0.x has attemped to create GUI, with many bugs, and unplayable.
 
 ## Report bugs:
 Please raise an issue or email me *roger.ren@connect.polyu.hk*
