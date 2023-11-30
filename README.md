@@ -5,6 +5,7 @@ This project was originally for school assessment, it is published for tracking 
 ## To-do:
 Post date | By | Progress | Details |
 :-- |:-- | :-- | :-- |
+30 Nov 2023 | Roger | Not started | Replace with new images (where can I find 50 images...) |
 30 Nov 2023 | Roger | Not started | Accept mouse click / touch as input |
 30 Nov 2023 | Albert | Not started | Resizeable gameboard windows |
 28 Nov 2023 | Roger | Not started | Publish LLG into web |
